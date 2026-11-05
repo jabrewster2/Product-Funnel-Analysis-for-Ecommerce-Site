@@ -8,7 +8,7 @@ Revenue has been low at this ecommerce site, and we need to determine where the 
 ## Business Problem:
 Completed orders are essential for this ecommerce site because that is the only way they can generate revenue. Product and sales stakeholders have noticed that completed orders have a lower conversion rate than expected (users who start vs. users who end up purchasing products). How can we determine where the most amount of users drop and what adjustments can we make to increase user conversion?
 
-[FunnelChart.pdf](https://github.com/user-attachments/files/34450002/FunnelChart.pdf)
+<img width="905" height="539" alt="Screenshot 2026-11-05 155359" src="https://github.com/user-attachments/assets/b437168b-5b0f-416b-ab41-e6cf0f36a767" />
 
 ## Methodology
 1. Use SQL to get an understanding of the data and how and if data correlates to each other.
