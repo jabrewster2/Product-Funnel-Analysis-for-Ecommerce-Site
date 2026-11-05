@@ -16,9 +16,9 @@ Completed orders are essential for this ecommerce site because that is the only 
 3. Make a funnel analysis in Python to simulate changes and determine the best areas of opprotunity.
 
 ## Skils
-SQL: CTEs, Joins, Case, aggregate functions
+SQL: aggregate functions
 
-Power BI: Dax, writing functions, ETL, calculated columns, data visualization, data modeling
+Power BI: writing functions, ETL, calculated columns, data visualization, data modeling
 
 Python: Pandas, Matplotlib, Numpy, Writing functions, building a product funnel, statistics
 
